@@ -2,7 +2,7 @@
 
 User Signup & Login with Auth JWT
 
-#Packages Used :
+Packages Used :
 
           Bcrypt : https://www.npmjs.com/package/bcrypt
           JsonWebToken : https://www.npmjs.com/package/jsonwebtoken
@@ -14,3 +14,9 @@ User Signup & Login with Auth JWT
 
 
 
+YT Video Reference :
+
+          https://www.youtube.com/watch?v=4hph7iBVgqg
+  
+  
+  
