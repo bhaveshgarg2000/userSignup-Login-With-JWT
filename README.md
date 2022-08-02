@@ -1,4 +1,4 @@
-# userSignup-Login-With-JWT
+# UserSignup-Login-With-JWT
 
 User Signup & Login with Auth JWT
 

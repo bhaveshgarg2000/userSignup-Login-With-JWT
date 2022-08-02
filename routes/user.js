@@ -65,7 +65,7 @@ router.post('/user/register', (req, res) => {
 
 
 // USER DELETION API
-router.delete('/user/delete/:id', checkAuth, (req, res) => {
+router.delete('/user/delete/:id',  (req, res) => {
     User.deleteOne({
             _id: req.params.id
         })

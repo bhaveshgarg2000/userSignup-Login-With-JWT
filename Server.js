@@ -21,5 +21,5 @@ app.get('/test', function (req, res) {
 
 //SERVER RUNING LISTENER
 app.listen(port, () => {
-    console.log(`Server is running onhttp://localhost:${port}/`)
+    console.log(`Server is running on http://localhost:${port}/`)
 });
